@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MaPremiereApp</string>
+    <string name="hello">Salut Yoyo! Je suis ici pour m\'entrainer a code en Kotlin et je pratique cet exercice de profil.</string>
+    <string name="Name">Yohan LEPESQUEUX</string>
+</resources>
