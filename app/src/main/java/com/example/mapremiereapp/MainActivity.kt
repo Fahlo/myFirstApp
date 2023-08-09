@@ -78,6 +78,7 @@ fun MyText() {
 
 }
 
+
 //Apprendre les textes
 @Composable
 fun MyTextName() {
